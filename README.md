@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lucas Francis</h1>
+- 🔭 I’m currently working on [Nokons](https://nokons.com)
 
-- 🔭 I’m currently working on [Nokons](nokons.com)
-
-- 👯 I’m looking to collaborate on [Octopen](frankdexdevs.co.ke)
+- 👯 I’m looking to collaborate on [Octokit](https://frankdexdevs.co.ke)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
